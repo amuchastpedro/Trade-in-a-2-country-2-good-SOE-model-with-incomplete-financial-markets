@@ -1,0 +1,8 @@
+# Dynare/MATLAB generated output
++*/
+*.log
+*.mat
+checksum
+*_dynamic.m
+*_static.m
+*.asv
